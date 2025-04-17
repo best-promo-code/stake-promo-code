@@ -9,17 +9,17 @@
   </tr>
   <tr>
     <td>➡️ Stake Promo Code</td>
-    <td><a href="https://stake.bet/?c=csgobettings">CSGOBETTINGSS</a></td>
+    <td><a href="https://stake.bet/?c=csgobettings">CSGOBETTINGS</a></td>
     <td>Get 10% Rakeback</td>
   </tr>
   <tr>
    <td>➡️ Stake Bonus Code</td>
-    <td><a href="https://stake.bet/?c=csgobettings">CSGOBETTINGSS</a></td>
+    <td><a href="https://stake.bet/?c=csgobettings">CSGOBETTINGS</a></td>
     <td>Claim 10% Rakeback</td>
   </tr>
   <tr>
   <td>➡️ Stake Refferal Code</td>
-    <td><a href="https://stake.bet/?c=csgobettings">CSGOBETTINGSS</a></td>
+    <td><a href="https://stake.bet/?c=csgobettings">CSGOBETTINGS</a></td>
       <td>10% Rakeback</td>
   </tr>
 </table>
